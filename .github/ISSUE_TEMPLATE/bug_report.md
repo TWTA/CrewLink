@@ -1,10 +1,12 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: '[BUG REPORT]'
-labels: 'bug'
+title: "[BUG REPORT]"
+labels: bug
 assignees: ''
+
 ---
+
 # You MUST use this template or your issue will be deleted.
 
 # Pre-Flight Checklist
